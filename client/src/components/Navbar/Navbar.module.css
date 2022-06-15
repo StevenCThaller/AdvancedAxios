@@ -1,0 +1,20 @@
+.navBar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 35px;
+}
+
+.brand {
+  font-size: 14pt;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.navLinks {
+  display: flex;
+  width: 50%;
+  justify-content: space-evenly;
+}
